@@ -1,0 +1,62 @@
+body{
+    max-width: 1950px;
+    background-color: black;
+    background-image: url("space.jpg.jpg") ;
+}
+
+#carouselExampleCaptions{
+    max-width: 1150px;
+    margin-top: 25px;
+    max-height: 500px;
+}
+
+img{
+    max-height: 500px;
+}
+
+h5{
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 100cm;
+}
+
+p{
+    background-color: black;
+    border-radius: 100cm;
+    
+}
+
+#titletext{
+    
+    margin-left: 101px;
+    padding-left: 15px;
+    padding-right: 128px;
+    padding-right: 42px;
+    padding-right: 95px;
+}
+
+.cards{
+    margin-top: 45px;
+    max-width: 1150px;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.card-title{
+    background-color: white;
+}
+
+.card-text{
+    background-color: white;
+}
+
+#flags{
+    width: 30px;
+    height: 20px;
+}
+ 
